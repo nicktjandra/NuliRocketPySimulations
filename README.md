@@ -11,3 +11,5 @@ The flight of the vehicle is graphed to show how far it will drift and the maxim
 The stability caliber at rail exit is 2.68, which is similar to the other simulated values of calibers. The value of the caliber was graphed for the burn time of the motor, which is 3.5 seconds.
 
 <img width="481" alt="ThrustOverTime" src="https://github.com/user-attachments/assets/1b1a4238-7027-4658-bfa0-0825b6b49a6b">
+
+For more details, visit the jupyter notebook.
